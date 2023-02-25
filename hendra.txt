@@ -1,1 +1,19 @@
-edit ->yoga
+:wq
+Anda21.27
+https://github.com/yogacom/git-test.git
+Hendra McHen22.32
+(branch-a )funsi a {
+}
+//branch-b 
+funsi a {
+// logic baru
+}
+branch-a uli branch main
+Hendra McHen22.33
+branch-a ke branch b
+Hendra McHen22.41
+git config
+git config user.email "emailundiksah"
+git config user.name "yoga"
+Hendra McHen22.43
+git clone link-project
